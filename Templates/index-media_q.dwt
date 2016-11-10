@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>'s Lab 實驗室</title>
+<!-- TemplateEndEditable -->
+
+<link href="../css/lab-media_q.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!--抬頭和選單 開始 -->
+<header class="row">
+	<div>
+	  <h1><span>Dr. Lin, Teng-Nan’s Lab</span> 林天南 博士 實驗室</h1>
+	  
+      </div>
+</header>
+<nav id="menu" class="row">
+            <ul class="container">
+                <li><a href="../index.html"><span>Introduction</span>實驗室介紹</a></li>
+                <li><a href="../page/highlight/highlight.html"><span>Highlight</span>重要成果</a></li>
+                <li><a href="../page/publication.html"><span>Publication</span>研究論文</a></li>
+                <li><a href="../page/member.html"><span>Member</span>實驗室成員</a></li>
+                <li><a href="../page/jobs.html"><span>Job</span>徵人啟事</a></li>
+             </ul>
+</nav>
+<hr>
+<!--抬頭和選單 結束 -->
+<!-- TemplateBeginEditable name="main" -->
+<!-- TemplateEndEditable -->
+<footer class="row">
+<div class="container">
+	<div class="col-4">
+    Institute of Biomedical Sciences<br/>
+128 Sec. 2, Academia Rd. Nankang,<br/>
+Taipei 115, Taiwan, R.O.C.
+Academia Sinica
+	</div>
+	<div class="col-4">
+    中央研究院 首頁<br/>
+    生物醫學科學研究所 首頁<br/>
+    台北市11529南港區研究院路二段128號<br/>
+    MAP 地圖
+    </div>
+	<div class="col-4">
+    Tel：886-2-2789-9000<br>
+Fax：886-2-2785-3569<br>
+ibmsweb@ibms.sinica.edu.tw
+	</div>
+</div>    
+</footer>    
+
+</body>
+</html>

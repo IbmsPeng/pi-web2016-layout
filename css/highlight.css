@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* 左邊主要內容 */
+
+div .col-lg-8 li {
+	background-color:#FDFFDD;
+	margin-bottom:1.5em;
+	clear:both;
+	padding:1.5em;
+	float:left;
+}
+
+div .col-lg-8 li:nth-child(even){
+	background-color:#E1FAFF;
+}
+
+dd p {
+	margin-top:1em;
+}
+
+.pull-right {
+	clear:both;
+}
+
+/* 右邊條列項目 */
+
+.col-lg-4 ul{
+	margin-top:2em;
+}
+	
+	
+.col-lg-4 li{
+	margin-bottom:1em;
+}
+
+.col-lg-4 div h3{
+	color:#369;
+	text-align:center;
+	padding-top:1em;
+	border-bottom:#FFF 3px solid;
+}
+
+	
